@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays/DSA/DSA.iml" filepath="$PROJECT_DIR$/Arrays/DSA/DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/DynamicProgramming/DynamicProgramming.iml" filepath="$PROJECT_DIR$/Arrays/DynamicProgramming/DynamicProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JCF/JCF.iml" filepath="$PROJECT_DIR$/JCF/JCF.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Striver/Striver.iml" filepath="$PROJECT_DIR$/Striver/Striver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TRIAL/TRIAL.iml" filepath="$PROJECT_DIR$/TRIAL/TRIAL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/myPrep/myPrep.iml" filepath="$PROJECT_DIR$/Arrays/myPrep/myPrep.iml" />
+    </modules>
+  </component>
+</project>
