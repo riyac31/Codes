@@ -13,6 +13,7 @@ public class setMat {
                     dum1[i] = 0;
                     dum2[j] = 0;
                 }
+                //jjjjjjjjjjjjjjjjjjjjjj
             }
         }
         for(int i=0;i<n;i++)
