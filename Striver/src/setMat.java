@@ -14,6 +14,7 @@ public class setMat {
                     dum2[j] = 0;
                 }
                 //jjjjjjjjjjjjjjjjjjjjjj
+
             }
         }
         for(int i=0;i<n;i++)
