@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc1aba99-414d-48e5-9ec2-002bf307df43" name="Changes" comment="jul18">
-      <change afterPath="$PROJECT_DIR$/src/backTra1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backTra2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sumOf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,9 +40,16 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.backTra1">
+  <component name="RunManager" selected="Application.sumOf">
     <configuration name="backTra1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="backTra1" />
+      <module name="recursion" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="backTra2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backTra2" />
       <module name="recursion" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -53,13 +62,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="rec2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rec2" />
-      <module name="recursion" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="rec3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="rec3" />
       <module name="recursion" />
@@ -67,8 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="rec_eg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rec_eg" />
+    <configuration name="sumOf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sumOf" />
       <module name="recursion" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.sumOf" />
+        <item itemvalue="Application.backTra2" />
         <item itemvalue="Application.backTra1" />
         <item itemvalue="Application.nto1" />
         <item itemvalue="Application.rec3" />
-        <item itemvalue="Application.rec2" />
-        <item itemvalue="Application.rec_eg" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658501186424</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="jul18">
+      <created>1658502337845</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1658502337845</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
