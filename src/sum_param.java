@@ -1,5 +1,4 @@
-import java.util.*;
-public class sumOf {
+public class sum_param {
     static void sum(int i, int sum){
         if(i<1){
             System.out.println(sum);
