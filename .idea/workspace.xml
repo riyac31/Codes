@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc1aba99-414d-48e5-9ec2-002bf307df43" name="Changes" comment="jul18">
-      <change afterPath="$PROJECT_DIR$/src/reverseArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/checkPal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fibonacci.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,9 +40,16 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.revUsingOneVar">
+  <component name="RunManager" selected="Application.fibonacci">
     <configuration name="fact" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fact" />
+      <module name="recursion" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fibonacci" />
       <module name="recursion" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -68,20 +76,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sum_param" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sum_param" />
-      <module name="recursion" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.fibonacci" />
         <item itemvalue="Application.revUsingOneVar" />
         <item itemvalue="Application.reverseArr" />
         <item itemvalue="Application.fact" />
         <item itemvalue="Application.sum_func" />
-        <item itemvalue="Application.sum_param" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +172,21 @@
       <option name="project" value="LOCAL" />
       <updated>1658511125617</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="jul18">
+      <created>1658627566774</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1658627566774</updated>
+    </task>
+    <task id="LOCAL-00013" summary="jul18">
+      <created>1658627608402</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1658627608402</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -195,11 +210,6 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/reverseArr.java</url>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/revUsingOneVar.java</url>
-          <line>1</line>
-          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
